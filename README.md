@@ -1,7 +1,7 @@
 # Custom-Post-Code
  Custom Post Template
  
-- AM Agency Theme File
+# AM Agency Theme File
 Whole WordPress File including the custom post file plugin
 
 - Custom Plugin
